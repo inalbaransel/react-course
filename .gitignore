@@ -1,0 +1,6 @@
+# Bu dosya, git'e dahil edilmemesi gereken dosya ve klasörleri belirtir
+node_modules/
+.env
+.DS_Store
+npm-debug.log
+# Diğer geçici veya sistem dosyaları
